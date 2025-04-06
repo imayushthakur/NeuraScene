@@ -14,7 +14,7 @@ The AI-Powered Video Background Generator is an innovative system designed to cr
 ### 1. **EdTech Content Creation**
 
 > **Input**: "Quantum physics concepts with glowing particles tracing electron paths"  
-> **Output**: 60s video with 3D equation overlays ($\nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}$)
+> **Output**: 60s video with 3D equation overlays 
 
 ### 2. **Corporate Training Videos**
 
@@ -49,7 +49,7 @@ _Used by 150+ educators worldwide with 97% satisfaction rate_
 
 1. **Installation**
 
-git clone https://github.com/yourusername/NeuraScene.git
+git clone https://github.com/imayushthakur/NeuraScene.git
 cd NeuraScene
 pip install -r requirements.txt
 
