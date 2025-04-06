@@ -62,10 +62,10 @@ _Used by 150+ educators worldwide with 97% satisfaction rate_
 
 3. **Generate Your First Video**
 
-## 📸 Sample Text
+## 📸 Sample Input
 
 A dark black background with tiny, bright, and glowing particles moving in all directions. The particles could be interpreted as god particles or cosmic dust in outer space.
 
-## 🎬 Sample Video
+## 🎬 Sample Output
 
 https://github.com/user-attachments/assets/26ce5108-ba81-432e-9d23-f9a08f9e197f
