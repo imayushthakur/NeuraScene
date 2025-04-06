@@ -58,7 +58,7 @@ _Used by 150+ educators worldwide with 97% satisfaction rate_
 
 2. **Run Streamlit UI**
 
-streamlit run streamlit_app.py
+    streamlit run streamlit_app.py
 
 3. **Generate Your First Video**
 
