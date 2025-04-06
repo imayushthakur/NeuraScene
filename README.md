@@ -69,3 +69,9 @@ A dark black background with tiny, bright, and glowing particles moving in all d
 ## 🎬 Sample Output
 
 https://github.com/user-attachments/assets/26ce5108-ba81-432e-9d23-f9a08f9e197f
+
+💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
+
+📬 Contact Me 📧 Email: thehaurusai@gmail.com
+
+Built with ❤️ using cutting-edge AI technologies! Let’s create something amazing together! 🚀
