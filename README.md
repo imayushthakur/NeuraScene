@@ -68,9 +68,5 @@ A dark black background with tiny, bright, and glowing particles moving in all d
 
 ## 🎬 Sample Video
 
-> You can play this video directly from the README.
 
-<video width="640" height="360" controls>
-  <source src="media/sample_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+</video>](https://github.com/user-attachments/assets/26ce5108-ba81-432e-9d23-f9a08f9e197f)
