@@ -71,6 +71,6 @@ A dark black background with tiny, bright, and glowing particles moving in all d
 > You can play this video directly from the README.
 
 <video width="640" height="360" controls>
-  <source src="media/output_video.mp4" type="video/mp4">
+  <source src="media/sample_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
