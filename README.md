@@ -50,8 +50,11 @@ _Used by 150+ educators worldwide with 97% satisfaction rate_
 1. **Installation**
 
 git clone https://github.com/imayushthakur/NeuraScene.git
+<br>
 cd NeuraScene
+<br>
 pip install -r requirements.txt
+<br>
 
 2. **Run Streamlit UI**
 
